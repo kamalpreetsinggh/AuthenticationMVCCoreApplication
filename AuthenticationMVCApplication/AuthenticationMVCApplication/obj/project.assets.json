@@ -12224,11 +12224,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DotNet\\AuthenticationMVCApplication\\AuthenticationMVCApplication\\AuthenticationMVCApplication.csproj",
+      "projectUniqueName": "D:\\DotNet\\AuthenticationMVCCoreApplication\\AuthenticationMVCApplication\\AuthenticationMVCApplication\\AuthenticationMVCApplication.csproj",
       "projectName": "AuthenticationMVCApplication",
-      "projectPath": "D:\\DotNet\\AuthenticationMVCApplication\\AuthenticationMVCApplication\\AuthenticationMVCApplication.csproj",
+      "projectPath": "D:\\DotNet\\AuthenticationMVCCoreApplication\\AuthenticationMVCApplication\\AuthenticationMVCApplication\\AuthenticationMVCApplication.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "D:\\DotNet\\AuthenticationMVCApplication\\AuthenticationMVCApplication\\obj\\",
+      "outputPath": "D:\\DotNet\\AuthenticationMVCCoreApplication\\AuthenticationMVCApplication\\AuthenticationMVCApplication\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
