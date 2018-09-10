@@ -1,0 +1,22 @@
+﻿@model LoginCredentials
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Login</h2>
+
+<form method="post">
+    <div style = "margin-top: 70px">
+        Username:
+        <div class="row">
+            <input type="text" asp-for="Username" />
+        </div>
+        Password:
+        <div class="row">
+            <input type="password" asp-for="Password" />
+        </div>
+        <div class="row">
+            <input type="submit" value="Login" />
+        </div>
+    </div>
+</form>
